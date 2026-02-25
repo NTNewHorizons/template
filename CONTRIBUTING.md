@@ -36,3 +36,4 @@ If you want to help the project, consider getting involved with the [Crowdin pro
 
 * Contributing to upstreams ([NTM](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT) and [NTM: Space](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT)) or directly to the [NTNH NTM repo](https://github.com/NTNewHorizons/Hbm-s-Nuclear-Tech-GIT)
 * Contributing to [our website repo](https://github.com/NTNewHorizons/NTNewHorizons.github.io)
+* Posting your ideas in [#suggestions](https://discord.com/channels/1365318764895277136/1416584800457723965) channel in our Discord (you can post anything but please no shitposts)
