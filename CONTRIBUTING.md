@@ -1,5 +1,5 @@
 # NTNH Contribution Guidelines, Version 1
-##### (srry bob for stealing your guidelines)
+##### (srry [bob](https://github.com/HbmMods) for stealing your guidelines)
 
 ## Keep it concise
 
